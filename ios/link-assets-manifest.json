@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/RobotoFlex.ttf",
+      "sha1": "377f5f157fbb552ae03d98002bcffefab206385a"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/SF-Pro-Display-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "EventArcLionRecordsSrc/EventArcLionRecordsAssets/EventArcLionRecordsFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
